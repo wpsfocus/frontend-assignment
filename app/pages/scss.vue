@@ -212,7 +212,7 @@ section {
                 border: 0;
                 border-radius: 50%;
                 background: $buttonBg;
-                color: white;
+                color: $whiteBg;
                 cursor: pointer;
             }
 
